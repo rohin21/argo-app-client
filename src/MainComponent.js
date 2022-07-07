@@ -42,6 +42,7 @@ function MainComponent() {
         />
         <button>Submit</button>
       </form>
+      <p>Simple edit</p>
     </div>
   );
 }
